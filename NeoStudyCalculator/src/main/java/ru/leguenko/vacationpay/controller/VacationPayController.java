@@ -1,7 +1,7 @@
 package ru.leguenko.vacationpay.controller;
 
 
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 import ru.leguenko.vacationpay.dto.CalculateQuery;
